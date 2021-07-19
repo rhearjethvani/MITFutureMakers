@@ -63,7 +63,8 @@ SureStart X MIT RAISE
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
-- Notes here
+- Hierarchy: Artificial Intelligence (a cognitive ability that enables the computer to think and mimic actions like humans) --> Machine Learning (a technique which uses statistical models to learn and improve automatically from experience) --> Neural Networks (a subset of ML to analyze different factors and patterns using a network similar to human brain) --> Deep Learning (a richer structure of Neural Networks)
+- HERE
 #### Next session
 - Notes here
 
