@@ -1,6 +1,12 @@
 # MITFutureMakers
 SureStart X MIT RAISE<br>
 
+
+## Breakdown
+##### [Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)](#Day1)
+##### [Day 2: Wednesday, July 7, 2021: Become a Leader!](#Day2)
+
+<a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)</br>
 ### Objectives: </br>
 1. To get comfortable with the following languages, libraries, and spaces: Python, NumPy, and Github. </br>
@@ -26,7 +32,7 @@ SureStart X MIT RAISE<br>
 1. DAY 1 REFLECTION: I am excited to learn more about AI technology and how to apply this knowledge to help improve the lives of specific demographics of people around me by implementing Deep Learning within my projects. I hope that through the program, I am able to use my passion for Computer Science for societal good.<br>
 
 
-
+<a name = "Day2"></a>
 DAY 2: I loved Dr. Kong's Leadership Development seminar, especially since it focused on telling our story to find something that we can lead/excel in. It had always been my dream to go to a place where I can just sit down and listen to someone tell me their life story, and through this workshop, I got to hear more about my peers' inspiring stories and connect with them. I am excited to apply Dr. Kong's challenges, choices, and outcomes storytelling framework to tell my own story!<br>
 DAY 3: Today, I got to take a more hands-on approach with Machine Learning models today which was really cool. I) Supervised learning is an approach in which the program is "trained" on a predefined set of "training examples", whereas unsupervised learning is an approach where the program is given a bunch of data and must find patterns and relationships. This means that the unsupervised method is more hands-off. II) The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is false because without utilizing the Graphvis libraries, there was no output for the IrisDecisionTree project.<br>
 DAY 4: I liked learning about the ethics of Machine Learning today and understanding the issues of the field. A dataset I found is the 2021 State Government Tax Dataset (https://www.census.gov/data/datasets/2020/econ/stc/2020-annual.html). This dataset includes data points that discuss the United States economy.<br>
