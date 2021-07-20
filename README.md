@@ -6,6 +6,7 @@ SureStart X MIT RAISE
 ##### [Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)](#Day1)
 ##### [Day 2: Wednesday, July 7, 2021: Become a Leader!](#Day2)
 ##### [Day 3: Thursday, July 8, 2021: Introduction to Machine Learning and Scikit-Learn](#Day3)
+##### [Day 4: Friday, July 9, 2021: What is Deep Learning?](#Day4)
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -59,7 +60,7 @@ SureStart X MIT RAISE
 2. Build ML model development skills
 
 ### Lesson Plan:
-1. Review Machine Learning models and algorithms with this [article](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+1. Review Machine Learning models and algorithms using ["An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples" article](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
@@ -72,10 +73,44 @@ SureStart X MIT RAISE
 - Diversity: everyone has their unique story
 - Equity: the idea that acknowledges that not everyone has equal access to opportunities that will help them succeed
 - When you don't feel included express your discomfort clearly and calmly
+#### Self-Study Applied Deep Learning Curriculum
+- "A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance of T, as measured by P, improves with experience E" - Tom Mitchell, Carnegie Mellon University
+- Goal of ML: make guesses that are good enough to be useful, not to make "perfect" guesses
+- Use neural networks where the number of inputs is large, making the computational cost of handling the problem too overwhelming
+- Algorithm types:
+  - Regression: fitting linear and non-linear models
+  - Clustering: unsupervised classification
+  - Decision Trees: tree induction and pruning for both classification and regression tasks
+  - Neural Networks: end-to-end training for both classification and regression
+  - SVMs: for learning decision boundaries
+  - Naive Bayes: direct probabilistic modeling
+- Function types: Ensemble Methods, Feature Manipulation, Outlier Detection, and Model Selection and Validation
 
 ### Action Item(s):
 1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree)
 2. DAY 3 REFLECTION: Today, I got to take a more hands-on approach with Machine Learning models amd code my first algorithm. I) Supervised Machine Learning algorithms are trained on labeled data allowing for extrapolation and are primarily used for classification and regression models, whereas Unsupervised Machine Learning algorithms are trained on unlabeled data to find patterns and relationships and are primarily used for clustering. Supervised ML learns from feedback meaning it can be difficult and time-consuming to label datasets, whereas Unsupervised ML learns from patterns (no feedback) and can have inaccuracies/find irrelevant relationships due to biases in the data. II) The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is false because Scikit-Learn is built to model data through supervised and unsupervised machine learning data and requires additional libraries to visualize the data such as Pandas and Graphviz.
+
+
+<a name = "Day4"></a>
+## Day 4: Friday, July 9, 2021: What is Deep Learning?
+### Objectives:
+1. Become familiar with the differences between AI, Machine Learning, and Deep Learning
+2. Introduction to Deep Learning models and algorithms
+
+### Lesson Plan:
+1. High-level understanding of Deep Learning models and algorithms using ["A Guide to Deep Learning and Neural Networks" article](https://serokell.io/blog/deep-learning-and-neural-network-guide)
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- here
+#### Reflection Corner
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here
+
+### Action Item(s):
+1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree) DEL AND EDIT
+2. DAY 4 REFLECTION: here
 
 
 DAY 4: I liked learning about the ethics of Machine Learning today and understanding the issues of the field. A dataset I found is the 2021 State Government Tax Dataset (https://www.census.gov/data/datasets/2020/econ/stc/2020-annual.html). This dataset includes data points that discuss the United States economy.<br>
