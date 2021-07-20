@@ -61,6 +61,7 @@ SureStart X MIT RAISE
 
 ### Lesson Plan:
 1. Review Machine Learning models and algorithms using ["An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples" article](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+2. Supplemental Activity: [Your First Machine Learning Model Kaggle Activity on XXX](https://www.kaggle.com/dansbecker/your-first-machine-learning-model)
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
@@ -88,7 +89,8 @@ SureStart X MIT RAISE
 
 ### Action Item(s):
 1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree)
-2. DAY 3 REFLECTION: Today, I got to take a more hands-on approach with Machine Learning models amd code my first algorithm. I) Supervised Machine Learning algorithms are trained on labeled data allowing for extrapolation and are primarily used for classification and regression models, whereas Unsupervised Machine Learning algorithms are trained on unlabeled data to find patterns and relationships and are primarily used for clustering. Supervised ML learns from feedback meaning it can be difficult and time-consuming to label datasets, whereas Unsupervised ML learns from patterns (no feedback) and can have inaccuracies/find irrelevant relationships due to biases in the data. II) The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is false because Scikit-Learn is built to model data through supervised and unsupervised machine learning data and requires additional libraries to visualize the data such as Pandas and Graphviz.
+2. [XXX Kaggle Machine Learning Model Activity](GITHUBLINKHERE)
+3. DAY 3 REFLECTION: Today, I got to take a more hands-on approach with Machine Learning models amd code my first algorithm. I) Supervised Machine Learning algorithms are trained on labeled data allowing for extrapolation and are primarily used for classification and regression models, whereas Unsupervised Machine Learning algorithms are trained on unlabeled data to find patterns and relationships and are primarily used for clustering. Supervised ML learns from feedback meaning it can be difficult and time-consuming to label datasets, whereas Unsupervised ML learns from patterns (no feedback) and can have inaccuracies/find irrelevant relationships due to biases in the data. II) The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is false because Scikit-Learn is built to model data through supervised and unsupervised machine learning data and requires additional libraries to visualize the data such as Pandas and Graphviz.
 
 
 <a name = "Day4"></a>
@@ -99,12 +101,20 @@ SureStart X MIT RAISE
 
 ### Lesson Plan:
 1. High-level understanding of Deep Learning models and algorithms using ["A Guide to Deep Learning and Neural Networks" article](https://serokell.io/blog/deep-learning-and-neural-network-guide)
+2. Explore ["What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?" article](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) to learn more about the differences between the subsets of AI
+3. Ethics in Machine Learning
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
-- here
+- Traditional Images classification (hand-designed feature extraction algorithms) vs Deep Learning classification (stacking layers that automatically learn more intricate, abstract, and discriminating features and at the end work as a classifier)
+- Deep Learning is becoming prevalent now because of availability of data, improved algorithms, and improved technology
+- Applications of DL include Computer Vision (CV) and Natural Language Processing (NLP)
+- Processing:
+  - Central Processing Unit (CPU): tens of operations per cycle (1x1 data unit; scalar)
+  - Graphical Processing Unit (GPU): tens of thousands of operations per cycle (1xN data unit; vector)
+  - Tensor Processing Unit (TPU): 128,000 operations per cycel (NxN data unit; tensor)
 #### Reflection Corner
-- here
+- Reflected on Week 1: The Basics Learnings
 #### Self-Study Applied Deep Learning Curriculum
 - here
 
