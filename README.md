@@ -9,7 +9,8 @@ SureStart X MIT RAISE
 ##### [Day 3: Thursday, July 8, 2021: Introduction to Machine Learning and Scikit-Learn](#Day3)
 ##### [Day 4: Friday, July 9, 2021: What is Deep Learning?](#Day4)
 ##### [Day 5-6: Saturday, July 10-Sunday, July 11, 2021: Weekend](#Day5/6)
-#### Week 2: HERE
+#### Week 2: CNNs, Data, & Machine Learning
+##### [Day 7: Monday, July 12, 2021: Introduction to ML and TensorFlow](#Day7)
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -138,8 +139,7 @@ SureStart X MIT RAISE
 - Ethics in Machine Learning: bias can be present in the data, algorithm, and/or results
 
 ### Action Item(s):
-1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree) DEL AND EDIT
-2. DAY 4 REFLECTION: I learned about the ethics of Machine Learning and other issues in the field. I also enjoyed learning about how Deep Learning works (i.e. more in-depth knowledge about CPU, GPU, and TPU). A dataset I found is the [2021 State Government Tax Dataset](https://www.census.gov/data/datasets/2020/econ/stc/2020-annual.html) that can help create models to draw conclusions about the United States economy. By using Machine Learning, we can analyze the effects of the recent American Rescue Plan (including stimulus checks) on the national economy, which is the topic of my current research project.
+1. DAY 4 REFLECTION: I learned about the ethics of Machine Learning and other issues in the field. I also enjoyed learning about how Deep Learning works (i.e. more in-depth knowledge about CPU, GPU, and TPU). A dataset I found is the [2021 State Government Tax Dataset](https://www.census.gov/data/datasets/2020/econ/stc/2020-annual.html) that can help create models to draw conclusions about the United States economy. By using Machine Learning, we can analyze the effects of the recent American Rescue Plan (including stimulus checks) on the national economy, which is the topic of my current research project.
 
 
 <a name = "Day5/6"></a>
@@ -153,6 +153,41 @@ SureStart X MIT RAISE
 1. DAY 5-6 REFLECTION: Overall, "Week 1: The Basics" was an enjoyable and valuable experience and allowed me to dive further into Deep Learning technology. I am really excited to continue my work during "Week 2: CNNs, Data, & Machine Learning" and to hopefully start building my own Machine Learning models from scratch soon.
 
 
-HERE
+<a name = "Day7"></a>
+## Day 7: Monday, July 12, 2021: Introduction to ML and TensorFlow
+### Objectives:
+1. Continue introduction to some basic Machine Learning (ML) concepts and models
+2. Build ML model development skills
 
-DAY 7: I enjoyed learning about Tensorflow, Keras, and PyTorch today. I) Tensors are multi-dimensional arrays with a uniform type such as floats, integers, complex numbers, and strings. Tensors comprise of different shapes (the length of each of the axes of a tensor i.e. scalar: rank-0 tensor, vector: rank-1 tensor, matrix: rank-2 tensor, and cube of matrices: rank-3 tensor), ranks (number of tensor axes), axes/dimensions (a particular dimension of a tensor), and sizes (the total number of items in the tensor, the product shape vector). II) I noticed that the computations in the tutorial are represented in the form of various graphs (i.e. data flow).
+### Lesson Plan:
+1. [The TensorFlow Library](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
+2. [The Keras Library](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc&utm_campaignid=1658343521&utm_adgroupid=63833880615&utm_device=c&utm_keyword=keras&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=319519154328&utm_targetid=aud-299261629654:kwd-295071417107&utm_loc_interest_ms=&utm_loc_physical_ms=9016565&gclid=CjwKCAiAxp-ABhALEiwAXm6IyQJo6LA_Z4HlQUiBhrfFwOFL3Vu0bDTjMI53og6hcZfeWIkzEZRBTxoCzbkQAvD_BwE)
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- Tensors: multi-dimensional arrays with a uniform type (i.e. floats, ints, complex numbers, and strings)
+  - Shape: the length (number of elements) of each of the axes of a tensor
+    - Scalar: rank-0 tensor
+    - Vector: rank-1 tensor
+    - Matrix: rank-2 tensor
+    - Cube of Matrices: rank-3 tensor
+  - Rank: number of tensor axes
+  - Axis/Dimension: a particular dimension of tensor
+  - Size: the total number of items in the tensor, the product shape vector
+#### Self-Study Applied Deep Learning Curriculum
+- TensorFlow uses numerical computations (data flow graphs)
+  - Nodes represent mathematical operations
+  - Edges represent the data (multidimensional data arrays or tensors that are communicated between the edges)
+- Plane Vectors - special types of matrices with one column
+  - represented as arrows (have direction and length)
+  - find themselves in vector space
+- Perceptron (single neuron) vs. Multi-Layer Perceptron
+- Tree Structure - input nodes and a single output node which is connected to each input node
+  - Input Nodes - each associated with numerical value (any real number)
+  - Connections - weight associated with it (any real number)
+  - All the connections' weights and input nodes are brought together (used as inputs for a weighted sum)
+
+### Action Item(s):
+1. [tensorflowactivity1](link)
+2. [kerasactivity1](link)
+3. DAY 7 REFLECTION: I enjoyed learning about Tensorflow, Keras, and PyTorch today. I) Tensors are multi-dimensional arrays with a uniform type such as floats, integers, complex numbers, and strings. Tensors comprise of different shapes (the length of each of the axes of a tensor i.e. scalar: rank-0 tensor, vector: rank-1 tensor, matrix: rank-2 tensor, and cube of matrices: rank-3 tensor), ranks (number of tensor axes), axes/dimensions (a particular dimension of a tensor), and sizes (the total number of items in the tensor, the product shape vector). II) I noticed that the computations in the tutorial are represented in the form of various graphs (i.e. data flow).
