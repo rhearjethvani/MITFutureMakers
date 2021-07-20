@@ -116,7 +116,23 @@ SureStart X MIT RAISE
 #### Reflection Corner
 - Reflected on Week 1: The Basics Learnings
 #### Self-Study Applied Deep Learning Curriculum
-- here
+- Artificial Neural Networks (ANNs) - represents the structure of a human brain modeled on the computer, consisting of neurons and synapses organized into layers
+- Components of Neural Networks:
+  - Neuron/Node - basic unit of neural networks that receives information, performs calculations, and passes it further (each one processes input data to extract a feature, has its own weights that are used to weigh the features, and has an activation function)
+    - input neurons - receive information from the outside world
+    - hidden neurons - process information
+    - output neurons - produce a conclusion
+  - Input --> Simple Features --> More Abstract Features --> Mapping from Features --> Output
+  - Synapse - connects the neurons; each has a weight (which adds change in the input information)
+- Bias - allows for more variations of weights to be stored
+- Algorithm Training: iteration (counter that increases every time the neural network goes through one training set), epoch (increases each time we go through the entire set of training sets), or batch (equal to the number of training examples in one forward/backward pass)
+- Types of Neural Networks:
+  - Feed-Forward Neural Networks - no memory + no going back
+  - Recurrent Neural Networks - process texts, videos, or sets of images + become more precise every time because it remembers the results of the previous iteration and can use that information to make better decisions
+  - Convolutional Neural Networks - can either be Feed-Forward or Recurrent
+  - Generative Adversarial Neural Networks - unsupervised Machine Learning algorithms that combines two neural networks (i.e. Network G generates patterns and Network A tries to distinguish genuine samples from the fake ones)
+- Neural Network applications: classification, prediction, and recognition
+- Ethics in Machine Learning: data, algorithm, and/or results
 
 ### Action Item(s):
 1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree) DEL AND EDIT
