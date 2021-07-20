@@ -8,6 +8,8 @@ SureStart X MIT RAISE
 ##### [Day 2: Wednesday, July 7, 2021: Become a Leader!](#Day2)
 ##### [Day 3: Thursday, July 8, 2021: Introduction to Machine Learning and Scikit-Learn](#Day3)
 ##### [Day 4: Friday, July 9, 2021: What is Deep Learning?](#Day4)
+##### [Day 5-6: Saturday, July 10-Sunday, July 11, 2021: Weekend](#Day5/6)
+#### Week 2: HERE
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -138,5 +140,19 @@ SureStart X MIT RAISE
 ### Action Item(s):
 1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree) DEL AND EDIT
 2. DAY 4 REFLECTION: I learned about the ethics of Machine Learning and other issues in the field. I also enjoyed learning about how Deep Learning works (i.e. more in-depth knowledge about CPU, GPU, and TPU). A dataset I found is the [2021 State Government Tax Dataset](https://www.census.gov/data/datasets/2020/econ/stc/2020-annual.html) that can help create models to draw conclusions about the United States economy. By using Machine Learning, we can analyze the effects of the recent American Rescue Plan (including stimulus checks) on the national economy, which is the topic of my current research project.
+
+
+<a name = "Day5/6"></a>
+## Day 5-6: Saturday, July 10-Sunday, July 11, 2021: Weekend
+
+### Key Learnings:
+#### Self-Study Applied Deep Learning Curriculum
+- Reviewed [Collection of Public Datasets](https://docs.google.com/spreadsheets/d/1qYjOWt39m6r3DpMYx3kespQRVgT6icn5tALXHrztbY4/edit?usp=sharing)
+
+### Action Item(s):
+1. DAY 5-6 REFLECTION: Overall, "Week 1: The Basics" was an enjoyable and valuable experience and allowed me to dive further into Deep Learning technology. I am really excited to continue my work during "Week 2: CNNs, Data, & Machine Learning" and to hopefully start building my own Machine Learning models from scratch soon.
+
+
+HERE
 
 DAY 7: I enjoyed learning about Tensorflow, Keras, and PyTorch today. I) Tensors are multi-dimensional arrays with a uniform type such as floats, integers, complex numbers, and strings. Tensors comprise of different shapes (the length of each of the axes of a tensor i.e. scalar: rank-0 tensor, vector: rank-1 tensor, matrix: rank-2 tensor, and cube of matrices: rank-3 tensor), ranks (number of tensor axes), axes/dimensions (a particular dimension of a tensor), and sizes (the total number of items in the tensor, the product shape vector). II) I noticed that the computations in the tutorial are represented in the form of various graphs (i.e. data flow).
