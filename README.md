@@ -75,17 +75,7 @@ SureStart X MIT RAISE
 
 ### Action Item(s):
 1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree)
-2. DAY 3 REFLECTION: Today, I got to take a more hands-on approach with Machine Learning models amd code my first algorithm.
-I) | Supervised ML | Unsupervised ML |
-| ----------- | ----------- |
-| Trained on labeled data to extrapolate | Trained on unlabeled data to find patterns and relationships |
-| Used for classification and regression | Used for clustering |
-| Learns from feedback | Learns from patterns and no feedback |
-| Can be difficult and time-consuming to label datasets | Can have inaccuracies and find irrelevant relationships |
-II) The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is false because without utilizing the Graphvis libraries, there was no output for the IrisDecisionTree project. EDIT
-
-
-
+2. DAY 3 REFLECTION: Today, I got to take a more hands-on approach with Machine Learning models amd code my first algorithm. I) Supervised Machine Learning algorithms are trained on labeled data allowing for extrapolation and are primarily used for classification and regression models, whereas Unsupervised Machine Learning algorithms are trained on unlabeled data to find patterns and relationships and are primarily used for clustering. Supervised ML learns from feedback meaning it can be difficult and time-consuming to label datasets, whereas Unsupervised ML learns from patterns (no feedback) and can have inaccuracies/find irrelevant relationships due to biases in the data. II) The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is false because Scikit-Learn is built to model data through supervised and unsupervised machine learning data and requires additional libraries to visualize the data such as Pandas and Graphviz.
 
 
 DAY 4: I liked learning about the ethics of Machine Learning today and understanding the issues of the field. A dataset I found is the 2021 State Government Tax Dataset (https://www.census.gov/data/datasets/2020/econ/stc/2020-annual.html). This dataset includes data points that discuss the United States economy.<br>
