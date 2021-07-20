@@ -64,13 +64,25 @@ SureStart X MIT RAISE
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
 - Hierarchy: Artificial Intelligence (a cognitive ability that enables the computer to think and mimic actions like humans) --> Machine Learning (a technique which uses statistical models to learn and improve automatically from experience) --> Neural Networks (a subset of ML to analyze different factors and patterns using a network similar to human brain) --> Deep Learning (a richer structure of Neural Networks)
-- HERE
-#### Next session
-- Notes here
+- ML can be applied to all fields i.e. finance (identify fraudulent behavior), healthcare (consumption monitoring), search engines (spam filters), etc.
+- The elements of ML include dataset (split into training set, validation set, and testing set), algorithm, and prediction
+- The steps of the ML algorithm framework include 1. model training and parameter tuning, model validation and evaluation, and iteration to find the best model (all done using the training set and validation set)
+- Supervised vs. Unsupervised Machine Learning
+#### Inclusive Leadership with Salila Yohn
+- Diversity: everyone has their unique story
+- Equity: the idea that acknowledges that not everyone has equal access to opportunities that will help them succeed
+- When you don't feel included express your discomfort clearly and calmly
 
 ### Action Item(s):
 1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree)
-2. DAY 3 REFLECTION: Today, I got to take a more hands-on approach with Machine Learning models  which was really cool. I) Supervised learning is an approach in which the program is "trained" on a predefined set of "training examples" and the features are pre-defined and extracted. In contrast, unsupervised learning is an approach where the program is given the data and must find patterns and relationships itself, meaning a more hands-off approach. II) The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is false because without utilizing the Graphvis libraries, there was no output for the IrisDecisionTree project.
+2. DAY 3 REFLECTION: Today, I got to take a more hands-on approach with Machine Learning models amd code my first algorithm.
+I) | Supervised ML | Unsupervised ML |
+| ----------- | ----------- |
+| Trained on labeled data to extrapolate | Trained on unlabeled data to find patterns and relationships |
+| Used for classification and regression | Used for clustering |
+| Learns from feedback | Learns from patterns and no feedback |
+| Can be difficult and time-consuming to label datasets | Can have inaccuracies and find irrelevant relationships |
+II) The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is false because without utilizing the Graphvis libraries, there was no output for the IrisDecisionTree project. EDIT
 
 
 
