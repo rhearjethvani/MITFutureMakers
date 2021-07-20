@@ -3,6 +3,7 @@ SureStart X MIT RAISE
 
 
 ## Breakdown
+#### Week 1: The Basics
 ##### [Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)](#Day1)
 ##### [Day 2: Wednesday, July 7, 2021: Become a Leader!](#Day2)
 ##### [Day 3: Thursday, July 8, 2021: Introduction to Machine Learning and Scikit-Learn](#Day3)
@@ -102,7 +103,7 @@ SureStart X MIT RAISE
 ### Lesson Plan:
 1. High-level understanding of Deep Learning models and algorithms using ["A Guide to Deep Learning and Neural Networks" article](https://serokell.io/blog/deep-learning-and-neural-network-guide)
 2. Explore ["What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?" article](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) to learn more about the differences between the subsets of AI
-3. Ethics in Machine Learning
+3. A Quick Dive into the Ethics of AI using ["Ethics in Machine Learning" article](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
@@ -114,7 +115,7 @@ SureStart X MIT RAISE
   - Graphical Processing Unit (GPU): tens of thousands of operations per cycle (1xN data unit; vector)
   - Tensor Processing Unit (TPU): 128,000 operations per cycel (NxN data unit; tensor)
 #### Reflection Corner
-- Reflected on Week 1: The Basics Learnings
+- Reflected on "Week 1: The Basics" Learnings
 #### Self-Study Applied Deep Learning Curriculum
 - Artificial Neural Networks (ANNs) - represents the structure of a human brain modeled on the computer, consisting of neurons and synapses organized into layers
 - Components of Neural Networks:
@@ -132,12 +133,10 @@ SureStart X MIT RAISE
   - Convolutional Neural Networks - can either be Feed-Forward or Recurrent
   - Generative Adversarial Neural Networks - unsupervised Machine Learning algorithms that combines two neural networks (i.e. Network G generates patterns and Network A tries to distinguish genuine samples from the fake ones)
 - Neural Network applications: classification, prediction, and recognition
-- Ethics in Machine Learning: data, algorithm, and/or results
+- Ethics in Machine Learning: bias can be present in the data, algorithm, and/or results
 
 ### Action Item(s):
 1. [Scikit-learn Model Development Activity: Iris Decision Tree](https://github.com/rhearjethvani/MITFutureMakers/tree/main/irisDecisionTree) DEL AND EDIT
-2. DAY 4 REFLECTION: here
+2. DAY 4 REFLECTION: I learned about the ethics of Machine Learning and other issues in the field. I also enjoyed learning about how Deep Learning works (i.e. more in-depth knowledge about CPU, GPU, and TPU). A dataset I found is the [2021 State Government Tax Dataset](https://www.census.gov/data/datasets/2020/econ/stc/2020-annual.html) that can help create models to draw conclusions about the United States economy. By using Machine Learning, we can analyze the effects of the recent American Rescue Plan (including stimulus checks) on the national economy, which is the topic of my current research project.
 
-
-DAY 4: I liked learning about the ethics of Machine Learning today and understanding the issues of the field. A dataset I found is the 2021 State Government Tax Dataset (https://www.census.gov/data/datasets/2020/econ/stc/2020-annual.html). This dataset includes data points that discuss the United States economy.<br>
 DAY 7: I enjoyed learning about Tensorflow, Keras, and PyTorch today. I) Tensors are multi-dimensional arrays with a uniform type such as floats, integers, complex numbers, and strings. Tensors comprise of different shapes (the length of each of the axes of a tensor i.e. scalar: rank-0 tensor, vector: rank-1 tensor, matrix: rank-2 tensor, and cube of matrices: rank-3 tensor), ranks (number of tensor axes), axes/dimensions (a particular dimension of a tensor), and sizes (the total number of items in the tensor, the product shape vector). II) I noticed that the computations in the tutorial are represented in the form of various graphs (i.e. data flow).
