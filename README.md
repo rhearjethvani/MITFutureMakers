@@ -11,6 +11,7 @@ SureStart X MIT RAISE
 ##### [Day 5-6: Saturday, July 10-Sunday, July 11, 2021: Weekend](#Day5/6)
 #### Week 2: CNNs, Data, & Machine Learning
 ##### [Day 7: Monday, July 12, 2021: Introduction to ML and TensorFlow](#Day7)
+##### [Day 8: Tuesday, July 13, 2021: What are Neural Networks (NN)?](#Day8)
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -188,6 +189,43 @@ SureStart X MIT RAISE
   - All the connections' weights and input nodes are brought together (used as inputs for a weighted sum)
 
 ### Action Item(s):
-1. [tensorflowactivity1](link)
-2. [kerasactivity1](link)
-3. DAY 7 REFLECTION: I enjoyed learning about Tensorflow, Keras, and PyTorch today. I) Tensors are multi-dimensional arrays with a uniform type such as floats, integers, complex numbers, and strings. Tensors comprise of different shapes (the length of each of the axes of a tensor i.e. scalar: rank-0 tensor, vector: rank-1 tensor, matrix: rank-2 tensor, and cube of matrices: rank-3 tensor), ranks (number of tensor axes), axes/dimensions (a particular dimension of a tensor), and sizes (the total number of items in the tensor, the product shape vector). II) I noticed that the computations in the tutorial are represented in the form of various graphs (i.e. data flow).
+1. [tensorflowactivity1](link) HERE
+2. [kerasactivity1](link) HERE
+3. DAY 7 REFLECTION: I enjoyed learning about Tensorflow, Keras, and PyTorch today. This helped me understand how Machine Learning technology can be applied to various problems. I) Tensors are multi-dimensional arrays with a uniform type such as floats, integers, complex numbers, and strings. Tensors comprise of different shapes (the length of each of the axes of a tensor i.e. scalar: rank-0 tensor, vector: rank-1 tensor, matrix: rank-2 tensor, and cube of matrices: rank-3 tensor), ranks (number of tensor axes), axes/dimensions (a particular dimension of a tensor), and sizes (the total number of items in the tensor, the product shape vector). II) I noticed that the computations in the tutorial are represented in the form of various graphs (i.e. data flow). For example, it is easier to create a graph/plot of data than to reach a formal conclusion about the data (outcome).
+
+
+<a name = "Day8"></a>
+## Day 8: Tuesday, July 13, 2021: What are Neural Networks (NN)?
+### Objectives:
+1. Deepen understanding of Neural Networks and Deep Learning with real-world examples
+2. Further explore the different components and concepts of Neural Networks using a simple NN model
+
+### Lesson Plan:
+1. Review ["A Guide to Deep Learning and Neural Networks" article](https://serokell.io/blog/deep-learning-and-neural-network-guide) to learn about the common concepts of Neural Networks and how they work with different ML functions and algorithms
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- Artificial Neural Network: consists of a pool of simple processing units, which communicate by sending signals to each other over a large number of weighted connections
+  - Processing of ANN: network topology (nodes and connecting lines), adjustment of weights (what is being "learned"), and activation functions
+  - ANN functionality (inspired by the human brain):
+    - Neuron: the basic computational unit
+    - Input Information: travel along the axons and multiplies with the weight (synaptic strength)
+    - Dendrites: carry the multiplied signal to the cell body where they all get summed
+    - If the final sum is above a certain threshold, the neuron can pass information fed through an activation function
+- Activation Function: determines the threshold at which the neuron is activated and the strength of the output signal
+  - Step Function: gets triggered above a certain value of the neuron output; else it outputs zero
+  - Sign Function: outputs +1 or -1 depending on whether neuron output is greater than zero or not
+  - Sigmoid: the S-curve and outputs a value between 0 and 1
+- Weights: show the strength of a particular node (initialized with small random values)
+- Biases: allow you to shift the activation function curve up or down (provides flexibility)
+- Different Dimensions of ANNs
+  - When based on the number of hidden layers:
+    - Single layer (having one secret layer) --> i.e. single perceptron (the first modern single layer neural network; a linear binary classifer for supervised learning)
+    - Multi layer (having multiple HERE
+#### Data as a Product with Eric Weber
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here
+
+### Action Item(s):
+1. DAY 8 REFLECTION: reflection here I) questions' answers here
