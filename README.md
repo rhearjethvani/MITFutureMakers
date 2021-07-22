@@ -221,11 +221,26 @@ SureStart X MIT RAISE
 - Different Dimensions of ANNs
   - When based on the number of hidden layers:
     - Single layer (having one secret layer) --> i.e. single perceptron (the first modern single layer neural network; a linear binary classifer for supervised learning)
-    - Multi layer (having multiple HERE
+    - Multi layer (having multiple secret layers) --> i.e. mulitlayer perceptron (a type of feed-forward artificial neural network that can learn both linear and nonlinear functions; uses backpropogation for training the network; has three kinds of layers: input layer, hidden layers, and output layer)
+  - When based on the connection patterns:
+    - Feed-Forward: the network doesn't have any memory, which means the ANN graph network does not have a loop
+    - Recurrent: the network has memory, allowing it to remember the results of the previous iteration to make better decisions in the current iteration, which means one or more loops occur in the recurrent ANN graph network (has two inputs: the present and the recent past, making it helpful in modeling sequence data)
+- Perceptron Functionality
+  - 1. All the inputs x are to be multiplied with their weights w
+  - 2. Add all the multiplied values and call this the weighted sum
+  - 3. Apply that weighted sum to the correct activation function
+- 1. Forward Propogation (input layer --> hidden layers --> output layer) --> 2. Error Estimation --> 3. Backward Propogation (output layer --> hidden layers --> input layer)
+  - Backpropogation: learning from mistakes (used to optimize the weights of an MLP using the outputs as inputs)
+  - Error (supervised learning): the model output differs from the expected output
 #### Data as a Product with Eric Weber
-- here
+- Organizations aren't sure what to expect from data science
+- The value of data science depends on who you ask
+- Data science is a team sport, but the team is not all data science
+- Building for value now conflicts with building for persistent, long-term value
+- Data science data product owners are critical
 #### Self-Study Applied Deep Learning Curriculum
-- here
+- Natural Language Processing pipeline: Data collection or assembly --> Data preprocessing --> Feature Extraction --> Model Building --> Model Evaluation
 
 ### Action Item(s):
-1. DAY 8 REFLECTION: reflection here I) questions' answers here
+1. [Kaggle XXX](here)
+2. DAY 8 REFLECTION: reflection here
