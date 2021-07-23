@@ -252,5 +252,5 @@ SureStart X MIT RAISE
 - Natural Language Processing pipeline: Data collection or assembly --> Data preprocessing --> Feature Extraction --> Model Building --> Model Evaluation
 
 ### Action Item(s):
-1. [Kaggle Sarcasm Detection Activity Using News Headlines Dataset](here)
+1. [Sarcasm Detection Activity Using News Headlines Dataset](https://github.com/rhearjethvani/MITFutureMakers/tree/main/sarcasmDetection)
 2. DAY 8 REFLECTION: I struggled a little bit with debugging the Sarcasm Detection Activity, but learned a lot about training the model to optimize/make it more efficiency. During the Deep Learning Overview session, I was particularly intrigued by the different choices of Artificial Neural Networks and learning about which is more suitable for what situation. I also enjoyed Mr. Weber's talk on "Data as a Product" since it gave me insight on the job-market applications of data/AI!
