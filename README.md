@@ -12,6 +12,7 @@ SureStart X MIT RAISE
 #### Week 2: CNNs, Data, & Machine Learning
 ##### [Day 7: Monday, July 12, 2021: Introduction to ML and TensorFlow](#Day7)
 ##### [Day 8: Tuesday, July 13, 2021: What are Neural Networks (NN)?](#Day8)
+##### [Day 9: Wednesday, July 14, 2021: Intro to Convolutional Neural Networks (CNNs)](#Day9)
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -254,3 +255,57 @@ SureStart X MIT RAISE
 ### Action Item(s):
 1. [Sarcasm Detection Activity Using News Headlines Dataset](https://github.com/rhearjethvani/MITFutureMakers/tree/main/sarcasmDetection)
 2. DAY 8 REFLECTION: I struggled a little bit with debugging the Sarcasm Detection Activity, but learned a lot about training the model to optimize/make it more efficiency. During the Deep Learning Overview session, I was particularly intrigued by the different choices of Artificial Neural Networks and learning about which is more suitable for what situation. I also enjoyed Mr. Weber's talk on "Data as a Product" since it gave me insight on the job-market applications of data/AI!
+
+
+<a name = "Day9"></a>
+## Day 9: Wednesday, July 14, 2021: Intro to Convolutional Neural Netowrks (CNNs)
+### Objectives:
+1. Introduction to Convolutional Neural Networks (CNNs), a very popular type of Neural Network
+2. Become acquainted with model evaluation metrics
+3. Become familiar with the effect of training data size on a model's predictive power
+
+### Lesson Plan:
+1. Learn about CNNs using ["here"](here) notebook
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- Convolutional Neural Network (CNN): type of feed-forward artificial neural network
+  - Performs a linear operation called "convolution" between input data and feature extractor filter
+  - Most successful/widely used application of CNN is analyzing visual images and videos (i.e. object classification, object detection, and localization)
+  - Four types of layers:
+    - Convolution (CONV) Layer: an element-wise matrix multiplication (dot product) occurs between the pixel value with filter size, the kernal moves left to right calculating the dot product, then summed resulting in a single value, and all the single values of the dot product create a feature map
+    - Activation Layer (Rectified Linear United Layer aka ReLU): used after the feature maps are extracted to learn more complex features; no parameters or weights are given to learn from images and all the negative pixel values to 0, introducing non-linearity to the network and resulting in a rectified feature map
+    - Pooling Layer: the rectified feature map goes through a down-sampling (shriking) operation that reduces the dimensionality of the feature map and reduces the computational complexity, making it easier to identify relevant information of the image such as edges, corners, and curves
+      - Max pooling: the largest element is taken from the feature map
+      - Average pooling: calculates the average of the elements in a predefined size image section
+    - Fully-Connected Layer:
+  - CNN Operation: when the computer sees an image, it finds a number of pixel intensity (represented in the form of pixel intensity --> represented in the form of array)
+#### App Inventor Track Talk with Dr. Hae Won Park
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 9 REFLECTION: reflection here
+
+
+<a name = "Day10"></a>
+## Day 10: Wednesday, July 14, 2021: Intro to Convolutional Neural Netowrks (CNNs)
+### Objectives:
+1. here
+
+### Lesson Plan:
+1. Learn about CNNs using ["here"](here) notebook
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- here
+#### Workshop HERE
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 10 REFLECTION: reflection here
