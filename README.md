@@ -163,6 +163,7 @@ SureStart X MIT RAISE
 ### Lesson Plan:
 1. [The TensorFlow Library](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
 2. [The Keras Library](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc&utm_campaignid=1658343521&utm_adgroupid=63833880615&utm_device=c&utm_keyword=keras&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=319519154328&utm_targetid=aud-299261629654:kwd-295071417107&utm_loc_interest_ms=&utm_loc_physical_ms=9016565&gclid=CjwKCAiAxp-ABhALEiwAXm6IyQJo6LA_Z4HlQUiBhrfFwOFL3Vu0bDTjMI53og6hcZfeWIkzEZRBTxoCzbkQAvD_BwE)
+3. [LSTMs for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
@@ -191,7 +192,8 @@ SureStart X MIT RAISE
 ### Action Item(s):
 1. [tensorflowactivity1](link) HERE
 2. [kerasactivity1](link) HERE
-3. DAY 7 REFLECTION: I enjoyed learning about Tensorflow, Keras, and PyTorch today. This helped me understand how Machine Learning technology can be applied to various problems. I) Tensors are multi-dimensional arrays with a uniform type such as floats, integers, complex numbers, and strings. Tensors comprise of different shapes (the length of each of the axes of a tensor i.e. scalar: rank-0 tensor, vector: rank-1 tensor, matrix: rank-2 tensor, and cube of matrices: rank-3 tensor), ranks (number of tensor axes), axes/dimensions (a particular dimension of a tensor), and sizes (the total number of items in the tensor, the product shape vector). II) I noticed that the computations in the tutorial are represented in the form of various graphs (i.e. data flow). For example, it is easier to create a graph/plot of data than to reach a formal conclusion about the data (outcome).
+3. [lstmactivty](link) HERE
+4. DAY 7 REFLECTION: I enjoyed learning about Tensorflow, Keras, and PyTorch today. This helped me understand how Machine Learning technology can be applied to various problems. I) Tensors are multi-dimensional arrays with a uniform type such as floats, integers, complex numbers, and strings. Tensors comprise of different shapes (the length of each of the axes of a tensor i.e. scalar: rank-0 tensor, vector: rank-1 tensor, matrix: rank-2 tensor, and cube of matrices: rank-3 tensor), ranks (number of tensor axes), axes/dimensions (a particular dimension of a tensor), and sizes (the total number of items in the tensor, the product shape vector). II) I noticed that the computations in the tutorial are represented in the form of various graphs (i.e. data flow). For example, it is easier to create a graph/plot of data than to reach a formal conclusion about the data (outcome).
 
 
 <a name = "Day8"></a>
