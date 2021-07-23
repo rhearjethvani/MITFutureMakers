@@ -188,6 +188,14 @@ SureStart X MIT RAISE
   - Input Nodes - each associated with numerical value (any real number)
   - Connections - weight associated with it (any real number)
   - All the connections' weights and input nodes are brought together (used as inputs for a weighted sum)
+- Using a Recurrent Neural Network (RNN) with Long Short-Term Memory cells (LSTMs) require little to no feature engineering for Human Activity Recognition (HAR) data
+  - data can be fed directly into the neural network
+  - RNN - takes many input vectors to process them and output other vectors
+    - one-to-one vector
+    - one-to-many vector
+    - many-to-one vector
+    - many-to-many vector
+  - feature vectors - one vector per time step (converted to a probability vector at the output for classification)
 
 ### Action Item(s):
 1. [tensorflowactivity1](link) HERE
