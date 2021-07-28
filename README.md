@@ -13,6 +13,7 @@ SureStart X MIT RAISE
 ##### [Day 7: Monday, July 12, 2021: Introduction to ML and TensorFlow](#Day7)
 ##### [Day 8: Tuesday, July 13, 2021: What are Neural Networks (NN)?](#Day8)
 ##### [Day 9: Wednesday, July 14, 2021: Intro to Convolutional Neural Networks (CNNs)](#Day9)
+##### [Day 10: Thursday, July 15, 2021: Algorithmic Bias and Datasets](#Day10)
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -329,7 +330,41 @@ SureStart X MIT RAISE
 
 
 <a name = "Day10"></a>
-## Day 10: Wednesday, July 14, 2021: Intro to Convolutional Neural Netowrks (CNNs)
+## Day 10: Thursday, July 15, 2021: Algorithmic Bias and Datasets
+### Objectives:
+1. Become cognizant of algorithmic bias in some AI-based software, the reasons for its occurence, and its effects on real-world inequalities and biases
+2. Think critically about the dangers that society might face, if automated systems have biases
+
+### Lesson Plan:
+1. Review the Stanford and Google AI interactive presentation, ["Bias in the Vision and Language of Artificial Intelligence"](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture19-bias.pdf), about algorithmic bias with vision and language applications of AI
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- AI Bias: the underlying prejudice in data that's used to create AI algorithms, which can ultimately result in discrimination and other social consequences
+- Causes of Bias: the outputs produced by Machine Learning models and AI systems are simply a reflection of the training datasets they are exposed to
+  - Personal Bias vs Environmental Bias
+- Types of Bias: Sample Bias, Exclusion Bias, Measurement Bias, Observer Bias, Association Bias, and Recall Bias
+- Considerations for a non-biased algorithm
+  - The data that one uses needs to represent "what should be" and not "what is"
+  - Some sort of data governance should be mandated and enforced
+  - Model Evaluation should include generalization across groups
+ - Solution: diversity
+#### Set & Achieve Your Goals with Carly Chase & Laura Castaing
+- Step 1: What is my ideal outcome?
+- Step 2: What have I already done?
+- Step 3: Where am I stopped?
+- Step 4: How could I get unstopped?
+- Step 5: When will I realistically do this?
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 10 REFLECTION: reflection here
+
+
+<a name = "Day11"></a>
+## Day 11: Friday, July 16, 2021: HERE
 ### Objectives:
 1. here
 
@@ -346,4 +381,4 @@ SureStart X MIT RAISE
 
 ### Action Item(s):
 1. [activity name](activitygithublink)
-2. DAY 10 REFLECTION: reflection here
+2. DAY 11 REFLECTION: reflection here
