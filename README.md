@@ -294,12 +294,23 @@ SureStart X MIT RAISE
   - Socio-emotive learning: learn via social interaction and observation
   - Socio-emotive relationship: build rapport and emotional bond as attentive, empathic other
 #### Self-Study Applied Deep Learning Curriculum
-- here
+- Convolutional Neural Networks Cheatsheet
+  - Architecture of a Traditional CNN
+    - Input image
+    - Convolutions (CONV): uses filters that perform convolution operations as it is scanning the input I with respect to its dimensions (hyperparameters include the filter size F and stride S; resulting output O is called feature map or activation map)
+    - Pooling (POOL): a downsampling operation, which does some spatial invariance
+      - Max Pooling: each pooling operation selects the maximum value of the current view
+      - Average Pooling: each pooling operation averages the value of the current view
+    - Fully Connected (FC): operates on a flattened input where ach  input is connected to all neurons
+  - Filter Hyperparameters: dimensions of a filter, stride, and zero-padding
+    - Tuned through parameter compatibility in Convolution layer, understanding the complexity of the model, and receptive field
+  - Commonly used Activation Functions: Rectified Linear Unit (ReLU) and Softmax
+  - Object Detection
+    - Types of models: Image Classification HERE
 
 ### Action Item(s):
 1. [MNIST Classification Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/mnistClassification)
-2. [Convolutional Layers HERE](HERE)
-3. DAY 9 REFLECTION: reflection here
+2. DAY 9 REFLECTION: reflection here
 
 
 <a name = "Day10"></a>
