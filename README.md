@@ -283,7 +283,16 @@ SureStart X MIT RAISE
     - Fully-Connected Layer:
   - CNN Operation: when the computer sees an image, it finds a number of pixel intensity (represented in the form of pixel intensity --> represented in the form of array)
 #### App Inventor Track Talk with Dr. Hae Won Park
-- here
+- Do long-term robot companions need socio-emotive intelligence? How will it affect us in long-term real-world contexts?
+- Increasing inclusiveness through personalization for each individual user
+- Inequality of education --> early childhood education is a key time to intervene
+- Learning is cognitive, social, affective, and relational
+  - Interaction with social robots activates social thinking
+- Socio-emotive relational AI
+  - Socio-emotive perception: machine perception of interpersonal cues
+  - Socio-emotive expression: expressive cues that reveal "state of mind"
+  - Socio-emotive learning: learn via social interaction and observation
+  - Socio-emotive relationship: build rapport and emotional bond as attentive, empathic other
 #### Self-Study Applied Deep Learning Curriculum
 - here
 
