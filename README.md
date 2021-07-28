@@ -265,7 +265,9 @@ SureStart X MIT RAISE
 3. Become familiar with the effect of training data size on a model's predictive power
 
 ### Lesson Plan:
-1. Learn about CNNs using ["here"](here) notebook
+1. Learn about CNNs using ["Convolutional Neural Networks Cheatsheet"](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) notebook
+2. Visualize how CNNs work with handwritten digits using ["2D Visualization of a Convolutional Neural Network"](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) demonstration
+3. Learn about Confusion Matrices in Machine Learning using ["What is a Confusion Matrix in Machine Learning"](https://machinelearningmastery.com/confusion-matrix-machine-learning/) article
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
@@ -286,8 +288,9 @@ SureStart X MIT RAISE
 - here
 
 ### Action Item(s):
-1. [activity name](activitygithublink)
-2. DAY 9 REFLECTION: reflection here
+1. [MNIST Classification Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/mnistClassification)
+2. [Convolutional Layers HERE](HERE)
+3. DAY 9 REFLECTION: reflection here
 
 
 <a name = "Day10"></a>
