@@ -306,11 +306,26 @@ SureStart X MIT RAISE
     - Tuned through parameter compatibility in Convolution layer, understanding the complexity of the model, and receptive field
   - Commonly used Activation Functions: Rectified Linear Unit (ReLU) and Softmax
   - Object Detection
-    - Types of models: Image Classification HERE
+    - Types of models: Image Classification (classifies a picture and predicts probability of object using a traditional CNN), Classification with Localization (detects an object in a picture and predicts probability of object and where it is located using simplified YOLO or R-CNN), and detection (detects up to several objects in a picture and predicts probabilities of objects and where they are located using YOLO or R-CNN)
+    - Detection methods: Bounding Box (detects the part of the image where the object is located), Landmark (detects a shape or characteristics of an object; more granular), Intersection over Union (a function that quantifies how correctly positioned a predicted bounding box is over the actual bounding box), Anchor Boxes (technique used to predict overlapping bounding boxes), and Non-Max Suppression (aims at removing duplicate overlapping bounding boxes of a same object by electing the most representative ones)
+   - You Only Look Once (YOLO): object detection algorithm that divides the input image into a GxG grid, (for each grid cell) runs a CNN that predicts y of the form, and runs the non-max suppression algorithm to remove any potential duplicate overlapping bounding boxes
+   - Region with Convolutional Neural Networks (R-CNN): object detection algorithm that first segments the image to find potential relevant bounding boxes and then runs the detection algorithm to find most probable objects in those bounding boxes
+   - Face Verification (one-to-one lookup) and Recognition (one-to-many lookup)
+    - One Shot Learning
+    - Siamese Network
+    - Triplet Loss
+   - Neural Style Transfer: motivation, activation, content cost function, style matrix, style cost function, and overall cost function
+   - Architectures using Computational Tricks
+    - Generative Adversarial Network (GANs): composed of a generative and a discriminative model where the generative model aims at generating the most truthful output that will be fed into the discriminative which aims at differentiating the generated and true image
+    - Residual Network (ResNet): uses residual blocks with a high number of layers meant to decrease the training error
+    - Inception Network: uses inception modules and aims at giving a try at different convolutions in order to increase its performance through features diversification
+- What is a Confusion Matrix in Machine Learning?
+  - Confusion Matrix: a technique for summarizing the performance of a classification algorithm
+  - Classification Accuracy: the ratio of correct predictions to total predictions made
 
 ### Action Item(s):
 1. [MNIST Classification Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/mnistClassification)
-2. DAY 9 REFLECTION: reflection here
+2. DAY 9 REFLECTION: I am happy that I was able to tinker with the MNIST dataset and explore its real-word applications while working on the MNIST Digits Classification activity. I also learned a lot about the architectures of Convolutional Neural Networks (CNNs) such as the different layers, hyperparameters, and operation. Dr. Hae Won Park's talk on Socio-Emotive Relational AI was really interesting and I would definitely like to further explore the long-term impacts of robot companions.
 
 
 <a name = "Day10"></a>
