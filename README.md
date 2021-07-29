@@ -14,6 +14,7 @@ SureStart X MIT RAISE
 ##### [Day 8: Tuesday, July 13, 2021: What are Neural Networks (NN)?](#Day8)
 ##### [Day 9: Wednesday, July 14, 2021: Intro to Convolutional Neural Networks (CNNs)](#Day9)
 ##### [Day 10: Thursday, July 15, 2021: Algorithmic Bias and Datasets](#Day10)
+##### [Day 11: Friday, July 16, 2021: Neural Network Layers and Continue Practice with MNIST Digits](#Day11)
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -387,6 +388,29 @@ SureStart X MIT RAISE
 2. Watch ["Why Should I Care About DEI (Diversity, Equity, and Inclusion)?" Video](https://www.youtube.com/watch?v=yqIpPwkpXXc) to understand why it is important for everyone to think about the significance of DEI in different environments
 3. Read ["Gender Shades" Article](http://gendershades.org/overview.html) and discuss some of the ways to avoid algorithmic bias when constructing AI projects
 4. DAY 10 REFLECTION: AI Ethics has always been a topic of interest for me, especially with the increasing prevalence in our society. I'm happy I got to explore the more technical side of why these biases are present. I) I think Machine Learning and AI concepts were utilized in the design of the Survival of the Best Fit game through the oversimplification of composite data characteristics. II) A real-world example of a biased machine learning model is male vs female gender stereotyping. For example, most ML models think of a male when they read in "doctor" or "engineer." Some potential ways to make this model more fair, inclusive, and equitable include exposing the model to more female datasets and adding more layers to the architecture.
+
+
+<a name = "Day11"></a>
+## Day 11: Friday, July 16, 2021: Neural Network Layers and Continue Practice with MNIST Digits
+### Objectives:
+1. Gain an understanding of the different types of layers and their roles in a CNN architecture
+2. Learn how to classify handwritten digits (specifically, the MNIST dataset) using different structures of CNNs and how those structures produce improved results
+3. Reflect on how different CNN architectures interact with the same dataset to produce improved results
+
+### Lesson Plan:
+1. Learn about CNNs using ["here"](here) notebook
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- here
+#### Workshop HERE
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 11 REFLECTION: reflection here
 
 
 <a name = "Day11"></a>
