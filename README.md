@@ -356,11 +356,37 @@ SureStart X MIT RAISE
 - Step 4: How could I get unstopped?
 - Step 5: When will I realistically do this?
 #### Self-Study Applied Deep Learning Curriculum
-- here?
+- Bias in the Vision and Language of Artificial Intelligence
+  - Training data are collected and annotated --> model is trained --> media are filtered, ranked, aggregated, or generated --> people see output --> feedback loop
+  - Prototype Theory: one purpose of categorization is to reduce the infinite differences among stimuli to behaviorally and cognitively usable proportions
+  - Human Reporting Bias: the frequency with which people write about actions, outcomes, or properties is not a reflection of real-world frequencies or the degree to which a property is characteristic of a class of individuals
+  - Biases in Data
+    - Selection Bias: selection does not reflect a random sample
+    - Out-Group Homogeneity Bias: tendancy to see outgroup members as more alike than ingroup members
+    - Leads to biased data representation, biased labels, and biased interpretations
+  - Biases in Interpretation
+    - Confirmation Bias: the tendancy to search for, interpret, favor, and recall information in a way that confirms preexisting beliefs
+    - Overgeneralization: coming to a conclusion based on information that is too general and/or not specific enough
+    - Correlation Fallacy: confusing correlation with causation
+    - Automation Bias: propensity for humans to favor suggestions from automated decision-making systems over contradictory information without automation
+  - "Bias" can be good, bad, or neutral
+  - Evaluate for Fairness and Inclusion
+    - Disaggregated Evaluation
+    - Intersectional Evaluation
+    - Confusion Matrix
+  - Use ML techniques for bias mitigation and inclusion
+- Why Should I Care About DEI?
+  - No company runs without people
+  - Everyone has identities that you are required to support
+- Gender Shades
+  - Automated systems are not inherently neutral
+  - Reflect the priorities, preferences, and prejudices of those who have the power to mold AI
 
 ### Action Item(s):
-1. [activity name](activitygithublink)
-2. DAY 10 REFLECTION: reflection here
+1. Play [Survival of the Best Fit Game](https://www.survivalofthebestfit.com/) to learn more about how AI might impact human resources and hiring processes in different fields
+2. Watch ["Why Should I Care About DEI (Diversity, Equity, and Inclusion)?" Video](https://www.youtube.com/watch?v=yqIpPwkpXXc) to understand why it is important for everyone to think about the significance of DEI in different environments
+3. Read ["Gender Shades" Article](http://gendershades.org/overview.html) and discuss some of the ways to avoid algorithmic bias when constructing AI projects
+4. DAY 10 REFLECTION: AI Ethics has always been a topic of interest for me, especially with the increasing prevalence in our society. I'm happy I got to explore the more technical side of why these biases are present. I) I think Machine Learning and AI concepts were utilized in the design of the Survival of the Best Fit game through the oversimplification of composite data characteristics. II) A real-world example of a biased machine learning model is male vs female gender stereotyping. For example, most ML models think of a male when they read in "doctor" or "engineer." Some potential ways to make this model more fair, inclusive, and equitable include exposing the model to more female datasets and adding more layers to the architecture.
 
 
 <a name = "Day11"></a>
