@@ -398,23 +398,57 @@ SureStart X MIT RAISE
 3. Reflect on how different CNN architectures interact with the same dataset to produce improved results
 
 ### Lesson Plan:
-1. Learn about CNNs using ["here"](here) notebook
+1. Become familiar with the different CNN layers (i.e. Convolution, Pooling, and Fully Connected) using the [CNN Architecture Guide](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+2. Complete the introductory dataset practice to learn how to classify handwritten digts with varying model depth and width using ["How to classify MNIST digits with different neural network architectures" article](https://medium.com/tebs-lab/how-to-classify-mnist-digits-with-different-neural-network-architectures-39c75a0f03e3)
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
-- here
-#### Workshop HERE
-- here
+- Convolutional Neural Network (CNN): type of feed-forward Artificial Neural Network
+  - Convolution (CONV) Layer: feature extraction layer that extracts the discriminating feature of the given input
+  - Activation Layer: introduces nonlinearity to the network to help the model generalize (usually use ReLU)
+  - Pooling Layer: a down-sampling layer that selects the most relevant features
+  - Fully Connected Layer: combines the features from previous layers to get it ready for classification
+- CNN Operation: Input (batch size + kernal size) --> feature extractor (convolutional layers: # of kernels, pooling layer, etc.) --> classifier (fully-connected layers with feed-forward layer and # of neurons)
+  - Feature Extractor: convolution layer followed by an activation layer (ReLU) and a pooling layer; separates and identifies various features of the image
+  - Classifier: a fully-connected layer utilizing the extracted features of previous stages from the convolution and the pooling operation and predicts the class
+- Flattening: convers the 2-dimensional output of pooling (i.e. the feature map) into a single linear vector
+  - Takes the numbers row by row and concatenates them to form a long feature vector
+- Output feature map: result of applying a filter to an image (or in case of an N-layer CNN, an input feature map)
+  - Depth: number of filters used for the convolution operation
+  - Stride: decides by what step the kernel will move throughout the input image (moving the filters in the input matrix)
+  - Padding: the input matrix is added with zeros around the border matrix
+- MNIST classification steps
+  - Prepare and load the dataset
+  - Perform data preprocessing (i.e. scale the dataset)
+  - Select a ML model (i.e. CNN) and define its architecture
+  - Specify loss function and model optimizer
+  - Split the dataset into training and validation sets
+  - Train and validate the model; repeat this step until you see the accuracy increasing
+  - Evaluate the final set of model parameters with test dataset
+#### Reflection Corner
+- Reflected on "Week 2: CNNs, Data, & Machine Learning" Learnings
 #### Self-Study Applied Deep Learning Curriculum
-- here?
+- here
 
 ### Action Item(s):
-1. [activity name](activitygithublink)
-2. DAY 11 REFLECTION: reflection here
+1. HandwrittenNumbersClassification
+2. MNISTDatasetCLassification
+3. DAY 11 REFLECTION: here I) [list the differences]
 
 
-<a name = "Day11"></a>
-## Day 11: Friday, July 16, 2021: HERE
+<a name = "Day12/13"></a>
+## Day 5-6: Saturday, July 10-Sunday, July 11, 2021: Weekend
+
+### Key Learnings:
+#### Self-Study Applied Deep Learning Curriculum
+- here
+
+### Action Item(s):
+1. DAY 5-6 REFLECTION: here
+
+
+<a name = "Day14"></a>
+## Day 12: Friday, July 16, 2021: HERE
 ### Objectives:
 1. here
 
