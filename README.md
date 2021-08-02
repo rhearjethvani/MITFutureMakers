@@ -15,6 +15,14 @@ SureStart X MIT RAISE
 ##### [Day 9: Wednesday, July 14, 2021: Intro to Convolutional Neural Networks (CNNs)](#Day9)
 ##### [Day 10: Thursday, July 15, 2021: Algorithmic Bias and Datasets](#Day10)
 ##### [Day 11: Friday, July 16, 2021: Neural Network Layers and Continue Practice with MNIST Digits](#Day11)
+##### [Day 12-13: Saturday, July 17-Sunday, July 18, 2021: Weekend](#Day12/13)
+#### Week 3: Functions and Predictions
+##### [Day 14: Monday, July 19, 2021: Loss Functions](#Day14)
+##### [Day 15: Tuesday, July 20, 2021: Activation Functions](#Day15)
+##### [Day 16: Wednesday, July 21, 2021: Ethics-Driven ML Practice](#Day16)
+##### [Day 17: Thursday, July 22, 2021: Image Classification and ML](#Day17)
+##### [Day 18: Friday, July 23, 2021: Data Overfitting and Regularization](#Day18)
+##### [Day 19-20: Saturday, July 24-Sunday, July 25, 2021: Weekend](#Day19/20)
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -450,22 +458,45 @@ SureStart X MIT RAISE
 
 ### Action Item(s):
 1. [MNIST Neural Network Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/mnistClassification)
-2. [Classifying MNIST Datasets CNN](https://github.com/rhearjethvani/MITFutureMakers/tree/main/classifyingMNISTDatasetsCNN)
+2. [Classifying MNIST Datasets CNN Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/classifyingMNISTDatasetsCNN)
 3. DAY 11 REFLECTION: The in-depth explanation of the CNN layers today was really helpful. I was able to better understand the workings of a neural network and the necessary components for the model to be trained. I) [list the differences]
 
 
 <a name = "Day12/13"></a>
-## Day 5-6: Saturday, July 10-Sunday, July 11, 2021: Weekend
+## Day 12-13: Saturday, July 17-Sunday, July 18, 2021: Weekend
 
 ### Key Learnings:
 #### Self-Study Applied Deep Learning Curriculum
-- here
+- Caught up on Week 2 Material & Action Items
 
 ### Action Item(s):
-1. DAY 5-6 REFLECTION: here
+1. DAY 12-13 REFLECTION: Overall, "Week 2: CNNs, Data, & Machine Learning" provided me with a deep insight into how ML models and what happens when you train/test your data using your model. I am looking forward to continuing my work during "Week 3: Functions and Predictions" so I can practice more real-world applications of these concepts.
 
 
 <a name = "Day14"></a>
+## Day 14: Monday, July 19, 2021: Loss Functions
+### Objectives:
+1. Introduction to Loss Functions
+
+### Lesson Plan:
+1. Read Sections 1-2.1 of ["How to Choose Loss Functions When Training Deep Learning Neural Networks" article](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
+2. Review "Loss Functions and Optimization" [Video Lecture](https://www.youtube.com/watch?v=h7iBpEHGVNc) and [Slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf)
+3. Look Over [Cheat Sheet on "Loss Functions"](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- here
+#### Workshop HERE
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [House Pricing Prediction Activity](activitygithublink)
+2. DAY 14 REFLECTION: reflection here
+
+
+<a name = "Day15"></a>
 ## Day 12: Friday, July 16, 2021: HERE
 ### Objectives:
 1. here
