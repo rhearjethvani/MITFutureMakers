@@ -459,7 +459,7 @@ SureStart X MIT RAISE
 ### Action Item(s):
 1. [MNIST Neural Network Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/mnistClassification)
 2. [Classifying MNIST Datasets CNN Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/classifyingMNISTDatasetsCNN)
-3. DAY 11 REFLECTION: The in-depth explanation of the CNN layers today was really helpful. I was able to better understand the workings of a neural network and the necessary components for the model to be trained. I) [list the differences]
+3. DAY 11 REFLECTION: The in-depth explanation of the CNN layers today was really helpful. I was able to better understand the workings of a neural network and the necessary components for the model to be trained. I) A Fully Connected Neural Network consists of a series of fully connected layers that connect every neuron in one layer to every neuron in the other layer, whereas Convolutional Neural Network is a sequence of layers that simply pass the data on to the next.
 
 
 <a name = "Day12/13"></a>
