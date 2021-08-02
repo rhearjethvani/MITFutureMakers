@@ -428,12 +428,30 @@ SureStart X MIT RAISE
 #### Reflection Corner
 - Reflected on "Week 2: CNNs, Data, & Machine Learning" Learnings
 #### Self-Study Applied Deep Learning Curriculum
-- here
+- Convolutional Neural Networks, Explained
+  - Specializes in processing data that has a grid-like topology (i.e. images, enabling sight to computers)
+  - Architecture
+    - Convolution Layer: performs a dot product between two matrices, where one matrix is the set of learnable parameters otherwise known as a kernel and the other matrix is the restricted portion of the receptive field
+    - Pooling Layer: replaces the output of the network at certain locations by deriving a summary statistic of the nearby outputs
+    - Fully Connected Layer: neurons in this layer have full connectivity with all neurons in the preceding and succeeding layer
+    - Non-Linearity Layers:
+      - Sigmoid: takes a real-valued number and “squashes” it into a range between 0 and 1
+      - Tanh: squashes a real-valued number to the range [-1, 1]
+      - Rectified Linear Unit (ReLU): activation is simply threshold at zero
+  - Applications of CNN: Object Detection, Semantic Segmentation, Image Captioning, etc.
+- MNIST digit classification with different neural network architectures
+  - x input data
+  - y labels
+  - ŷ predictions made by a model
+  - Training data (data our model learns from)
+  - Test data (kept secret from the model until after it has been train; used to evaluate our model)
+  - Loss function (quantifies how accurate a model’s predictions were)
+  - Optimization algorithm (controls exactly how the weights of the computational graph are adjusted during training)
 
 ### Action Item(s):
-1. HandwrittenNumbersClassification
-2. MNISTDatasetCLassification
-3. DAY 11 REFLECTION: here I) [list the differences]
+1. [MNIST Neural Network Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/mnistClassification)
+2. [Classifying MNIST Datasets CNN]()
+3. DAY 11 REFLECTION: The in-depth explanation of the CNN layers today was really helpful. I was able to better understand the workings of a neural network and the necessary components for the model to be trained. I) [list the differences]
 
 
 <a name = "Day12/13"></a>
