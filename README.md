@@ -450,7 +450,7 @@ SureStart X MIT RAISE
 
 ### Action Item(s):
 1. [MNIST Neural Network Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/mnistClassification)
-2. [Classifying MNIST Datasets CNN]()
+2. [Classifying MNIST Datasets CNN](https://github.com/rhearjethvani/MITFutureMakers/tree/main/classifyingMNISTDatasetsCNN)
 3. DAY 11 REFLECTION: The in-depth explanation of the CNN layers today was really helpful. I was able to better understand the workings of a neural network and the necessary components for the model to be trained. I) [list the differences]
 
 
