@@ -516,8 +516,8 @@ SureStart X MIT RAISE
 
 ### Action Item(s):
 1. [Types of Loss Functions Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/typesOfLossFunctions)
-2. [House Pricing Prediction Activity](activitygithublink)
-3. DAY 14 REFLECTION: reflection here
+2. [House Pricing Prediction Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/housingPricesPrediction)
+3. DAY 14 REFLECTION: Today's lesson was a little difficult to understand, especially the Gradient Descent topic. However, the supplemental activies were really helpful for me to better understand Loss Functions and model optimization. Loss Functions can allow us to find weaker parts of the algorithm to improve functionality.
 
 
 <a name = "Day15"></a>
