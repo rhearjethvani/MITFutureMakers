@@ -485,15 +485,39 @@ SureStart X MIT RAISE
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
-- here
-#### Workshop HERE
-- here
+- Loss Function aka Cost Function, Objective Function, or Error Function: a measure of error between the model's predicted value and the actual value (how well does your algorithm model your dataset?)
+- Types of Loss Functions
+  - Regression: predicts continuous and numerical valude
+    - Mean Squared Error (MSE): calculate the average of the squared differences between the predicted and actual value
+    - Mean Squared Logarithmic Error (MSLE): calculate the natural logarithm for each of the predicted valudes, then calculate the mean squared error
+    - Mean Absolute Error (MAE): calculuate the average of the absolute difference between the actual and predicted values
+  - Classification: predicts a categorical outcome (number of classes)
+    - Binary Classification: output can be either one of two items indicated by 0 or 1
+      - Binary Cross-Entropy: measures how far away the true value from the prediction valude for each of the classes and then averages these class-wise errors to obtain the final loss
+      - Hinge Loss
+      - Squared Hinge Loss
+    - Multi-Class Classification: used when true labels are one-hot encoded
+      - Multi-Class Cross-Entropy: sparse variant
+      - Sparse Multi-Class Cross-Entropy: truth labels are integer encoded
+      - Kullback Leibler Divergence
+- Model Optimization
+  - Gradient Descent: iterative process that finds the parameters or coefficients of a function where the function has a minimum value and seeks to change the weights so that the next evaluation reduces the error
+    - Types of Gradient Descent:
+      - Batch Gradient Descent: parameters are updated after computing the gradient of error with respect to the entire training set
+      - Stochastic Gradient Descent (SGD): parameters are updated after computing the gradient of error with respect to a single training example
+      - Mini-Batch Stochastic Gradient Descent (MB-SGD): parameters are updated after computing the gradient of error with respect to a subset of the training set
+    - Steps
+      - Calculate what a small change in each individual weight would do to the loss function
+      - Adjust each individual weight based on its gradient
+      - Keep doing steps #1 and #2 until the loss function gets as low as possible --> will stop once convergence is hit
+- Learning Rate: influences the optimizer's convergence; for gradient descent to reach the local minimum, the learning rate must be set to an appropriate value, which is neither too low nor too high
 #### Self-Study Applied Deep Learning Curriculum
 - here?
 
 ### Action Item(s):
-1. [House Pricing Prediction Activity](activitygithublink)
-2. DAY 14 REFLECTION: reflection here
+1. [Types of Loss Functions Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/typesOfLossFunctions)
+2. [House Pricing Prediction Activity](activitygithublink)
+3. DAY 14 REFLECTION: reflection here
 
 
 <a name = "Day15"></a>
