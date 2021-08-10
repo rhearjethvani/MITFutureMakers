@@ -512,7 +512,7 @@ SureStart X MIT RAISE
       - Keep doing steps #1 and #2 until the loss function gets as low as possible --> will stop once convergence is hit
 - Learning Rate: influences the optimizer's convergence; for gradient descent to reach the local minimum, the learning rate must be set to an appropriate value, which is neither too low nor too high
 #### Self-Study Applied Deep Learning Curriculum
-- here?
+- Loss functions are used to estimate the loss of the model so that the weights can be updated to reduce the loss on the next evaluation
 
 ### Action Item(s):
 1. [Types of Loss Functions Activity](https://github.com/rhearjethvani/MITFutureMakers/tree/main/typesOfLossFunctions)
