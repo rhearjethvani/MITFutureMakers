@@ -551,9 +551,37 @@ SureStart X MIT RAISE
   - Regression: one node, linear activation
   - Classification:
     - Binary Classification: one node, sigmoid activation
-    - Multiclass Classification
+    - Multiclass Classification: one node per class, softmax activation
+      - Softmax: attain the probabilities to define the class of each input, trying to handle multiple classes
+        - Value range: 0 (inclusive) to 1 (inclusive)
+        - Non-linear
+    - Multilabel Classification: one node per class, sigmoid activation
+- Relation between Activation Function and Loss Function
+  - Regression
+    - Numerical Output
+    - Linear Activation Function
+    - Mean Square Error Loss Function
+  - Classification
+    - Binary Outcome Output
+      - Sigmoid Activation Function
+      - Binary Cross Entropy Loss Function
+    - Single Label, Multiple Classes Output
+      - Softmax Activation Function
+      - Cross Entropy Loss Function
+    - Multiple Label, Multiple Classes Output
+      - Sigmoid Activiation Function
+      - Binary Cross Entropy Loss Function
 #### Talk with Daniel Ranallo
-- here
+- Principles of Life
+  - Spend lavishly on the time and energy you devote to getting in sync, because it's the best investment you can make
+  - Own your outcomes
+  - Speak up, own it, or get out
+  - Recognize that while most people prefer compliments, accurate criticism is more valuable
+- Humans + Computers = Better Decisions Together
+- How does ML/AI fit into an idea meritocracy? --> explainability in AI/ML/Algorithms
+  - We must understand how the computer arrived at its decision
+  - Analyze and understand gaps in the machines' assessment
+  - Our algorithms produce recommendations with reasoning not decisions
 #### Self-Study Applied Deep Learning Curriculum
 - here?
 
