@@ -1,5 +1,7 @@
 # MITFutureMakers
 SureStart X MIT RAISE
+Total Hours: XXX
+Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
 
 
 ## Breakdown
@@ -23,6 +25,16 @@ SureStart X MIT RAISE
 ##### [Day 17: Thursday, July 22, 2021: Image Classification and ML](#Day17)
 ##### [Day 18: Friday, July 23, 2021: Data Overfitting and Regularization](#Day18)
 ##### [Day 19-20: Saturday, July 24-Sunday, July 25, 2021: Weekend](#Day19/20)
+#### Week 4: Applications of Machine Learning
+##### [Day 21: Monday, July 26, 2021: Upsampling and Autoencoders](#Day21)
+##### [Day 22: Tuesday, July 27, 2021: Affective Computing](#Day22)
+##### [Day 23: Wednesday, July 28, 2021: Natural Language Processing (NLP)](#Day23)
+##### [Day 24: Thursday, July 29, 2021: Computer Vision (CV)](#Day24)
+##### [Day 25: Friday, July 30, 2021: Get Ready for the Create-a-thon](#Day25)
+##### [Day 26-27: Saturday, July 31-Sunday, August 1, 2021: Weekend](#Day26/27)
+#### Week 5: Create-a-thon Preparation
+##### [Day 28: Monday, August 2, 2021: Create-a-thon Begins on August 2!](#Day28)
+##### [Extra Practice](#Extra)
 
 <a name = "Day1"></a>
 ## Day 1: Tuesday, July 6, 2021: Welcome to SureStart! (Getting Started)
@@ -595,24 +607,32 @@ SureStart X MIT RAISE
 
 
 <a name = "Day16"></a>
-## Day 16: Friday, July 16, 2021: HERE
+## Day 16: Friday, July 16, 2021: Ethics-Driven ML Practice
 ### Objectives:
-1. here
+1. To reflect on the ways that we can engage with ethical thinking while practicing ML and AI
+2. To think critically about these principals as we complete a Gender Classification activity
 
 ### Lesson Plan:
-1. Learn about CNNs using ["here"](here) notebook
+1. Improve understanding of the importance of ethics in the real-world context of AI and automation with a Machine Learning ethics review using the ["Machine learning ethics: what you need to know and what you can do" article](https://hub.packtpub.com/machine-learning-ethics-what-you-need-to-know-and-what-you-can-do/)
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
-- here
-#### Workshop HERE
-- here
+- Ethical Principles
+  - Interpretability is usually sacrificed in favor of usability and effectiveness
+  - "Garbage-In Garbage-Out" issues may be prone to emerge in contexts when external control is entirely removed
+  - Fairness, accountability, and transparency
+- Why do companies not fully disclose algorithmic details?
+  - Leaking of privacy sensitive data into the open
+  - Backfiring into an implicit invitation to game the system
+  - Harm to comapny property rights with negative consequences on their competitiveness
+  - Inherent opacity of algorithms, whose interpretability may be hard even for experts
+  - Hard to resolve conflicts between potential algorithms deficits in accuracy and individual rights to privacy and autonomy of decision
 #### Self-Study Applied Deep Learning Curriculum
 - here?
 
 ### Action Item(s):
 1. [activity name](activitygithublink)
-2. DAY 11 REFLECTION: reflection here
+2. DAY 16 REFLECTION: reflection here
 
 
 <a name = "Day17"></a>
