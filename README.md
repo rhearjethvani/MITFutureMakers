@@ -607,7 +607,7 @@ Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
 
 
 <a name = "Day16"></a>
-## Day 16: Friday, July 16, 2021: Ethics-Driven ML Practice
+## Day 16: Wednesday, July 21, 2021: Ethics-Driven ML Practice
 ### Objectives:
 1. To reflect on the ways that we can engage with ethical thinking while practicing ML and AI
 2. To think critically about these principals as we complete a Gender Classification activity
@@ -637,6 +637,112 @@ Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
 
 ### Action Item(s):
 1. DAY 16 REFLECTION: I am really interested in AI Ethics, especially after today's lecture. I think it's interesting that algorithms need to find a balance between fairness and accuracy.
+
+
+<a name = "Day17"></a>
+## Day 17: Thursday, July 22, 2021: Image Classification and ML
+### Objectives:
+1. Learn how to perform Image Classification using Machine Learning
+
+### Lesson Plan:
+1. Review some of the basics of image classification techniques with ML using ["Basics of Image Classification Techniques in Machine Learning" notebook](https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/)
+2. Review how to build an image classification model using ["Build your First Image Classification Model in just 10 Minutes!" walkthrough](https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/)
+3. Examine ["Image classification from scratch" Keras Notebook Activity](https://keras.io/examples/vision/image_classification_from_scratch/) to learn how to build an Image Classification model
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- Image Classification: refers to assigning a label to an image from a predefined set of categories
+  - Dataset: a collection of images
+  - Data Point: each image is a data point
+  - Label: object class/category
+- Feature Extraction: the process of taking an input image, applying an algorithm, and obtaining a feature vector (i.e. a list of numbers) that quantifies the image
+- Types of Image Classification
+  - Supervised Learning: the input is the sample images and the label of the object/species
+    - Output is the probability of the presence of each object/species in the image
+    - Labels + Database --> Machine Learning Model --> Trained Model
+      - Trained Model + Unlabeled Data --> Prediction
+  - Unsupervised Learning: the computer uses techniques to group the images by determining the relation of pixel pattern or finding common characteristics (without the user providing sample classes)
+    - Database --> Machine Learning Model --> Finding Pattern and Clustering
+- Traditional Images Classification (Machine Learning): contains hand-designed feature extraction algorithm
+  - Input --> Feature Extraction --> Classification --> Output
+- Deep Learning Classification: approach of stacking layers that automatically learn more intricate, abstract, and discriminating features at the end work as a classifier
+  - Input --> Feature Extraction + Classification --> Output
+- Support Vector Machines (SVM): flexible supervised machine learning algorithms used both for classification and regression
+  - Represents different classes in a hyperplane in multidimensional space (maximum marginal and kernel functions)
+- Image Classification Using CNN
+  - Acquire Dataset --> Preprocess Images --> Prepare the Images --> Train the Network --> Evaluate the Network
+  - Challenges with Image Classification
+    - Intra-Class Variation: variation between the images of same class
+    - Scale Variation: having image of same object with multiple size
+    - Viewpoint Variation: different orientation/rotation of object in multiple dimensions
+    - Occlusion: object is partially visible due to blockage by another object
+    - Illumination: variation in intensity level of pixels due to different lighting condition
+    - Background Clutter: a lot of objects in the image which makes it very tough to find the desired object
+- Object Localization and Detection
+  - Not only labels the class of an object, but also draws a bounding box around the position of object in the image
+  - Truth labels include both the image class(es) as well as the image position(s)
+  - Prediction is the location of object(s) with bounding boxes and labels for each object in the image
+- Steps for building a CNN-based Image Classification Model with Keras
+  - 1. All data splits into training set, validation set, and test set
+  - 2. Training set --> Keras data augmentation --> batch of original images --> transforming each image in the batch with augmentation technique (such as rotation, zoom, or flip) --> replace the original batch with the randomly transformed batch of image --> model training on batch of augmented image
+  - 3. Validation set --> validation process --> model training on batch of augmented image
+  - 4. Model training on batch of augmented image + validation + test set --> model evaluation
+#### From Watson Jeopardy! to Interactive Collaborative Problem Solving with Jennifer Chu-Carroll
+- The Jeopardy! Challenge: Driving Question Answering Technology along 5 Key Dimensions
+  - Broad/Open Domain
+  - Complex Language
+  - High Precision
+  - Accurate Confidence
+  - High Speed
+- 
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 17 REFLECTION: reflection here
+
+
+<a name = "Day17"></a>
+## Day 12: Friday, July 16, 2021: HERE
+### Objectives:
+1. here
+
+### Lesson Plan:
+1. Learn about CNNs using ["here"](here) notebook
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- here
+#### Workshop HERE
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 11 REFLECTION: reflection here
+
+
+<a name = "Day17"></a>
+## Day 12: Friday, July 16, 2021: HERE
+### Objectives:
+1. here
+
+### Lesson Plan:
+1. Learn about CNNs using ["here"](here) notebook
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- here
+#### Workshop HERE
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 11 REFLECTION: reflection here
 
 
 <a name = "Day17"></a>
