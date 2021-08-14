@@ -591,7 +591,7 @@ SureStart X MIT RAISE
 ### Action Item(s):
 1. [How to Choose an Activation Function for Deep Learning](https://github.com/rhearjethvani/MITFutureMakers/tree/main/choosingAnActivationFunction)
 2. [Introduction to Rectified Linear Unit (ReLU)](https://github.com/rhearjethvani/MITFutureMakers/tree/main/introToReLU)
-3. DAY 15 REFLECTION: reflection here
+3. DAY 15 REFLECTION: Today, we took a more in-depth approach to Activation Functions. I enjoyed learning about the different use cases of each function and the math behind it. I) ReLU is the most commonly used activation function. Some advantages to using ReLU include that there is no vanishing gradient (since the only options are 0 and 1) and that it is less computationally expensive than Sigmoid or Tanh functions since it has simpler mathematical operations. One use case for the ReLU function is in hidden layers for Multilayer Perceptrons and Convolutional Neural Networks.
 
 
 <a name = "Day16"></a>
