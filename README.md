@@ -628,11 +628,15 @@ Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
   - Inherent opacity of algorithms, whose interpretability may be hard even for experts
   - Hard to resolve conflicts between potential algorithms deficits in accuracy and individual rights to privacy and autonomy of decision
 #### Self-Study Applied Deep Learning Curriculum
-- here?
+- Pre-existing and Dataset Biases: embedded in the data on which we choose to train algorithms
+  - Context in data collection:
+    - What are you trying to achieve?
+    - Why are you doing this?
+    - Understanding the dataset
+- Technical and Contextual Biases: about how an algorithm is programmed
 
 ### Action Item(s):
-1. [activity name](activitygithublink)
-2. DAY 16 REFLECTION: reflection here
+1. DAY 16 REFLECTION: I am really interested in AI Ethics, especially after today's lecture. I think it's interesting that algorithms need to find a balance between fairness and accuracy.
 
 
 <a name = "Day17"></a>
