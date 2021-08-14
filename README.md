@@ -583,11 +583,13 @@ SureStart X MIT RAISE
   - Analyze and understand gaps in the machines' assessment
   - Our algorithms produce recommendations with reasoning not decisions
 #### Self-Study Applied Deep Learning Curriculum
-- here?
+- All hidden layers typically use the same activation function
+- The output layer will typically use a different activation function from the hidden layers and is dependent upon the type of prediction required by the model
 
 ### Action Item(s):
-1. [activity name](activitygithublink)
-2. DAY 11 REFLECTION: reflection here
+1. [How to Choose an Activation Function for Deep Learning](https://github.com/rhearjethvani/MITFutureMakers/tree/main/choosingAnActivationFunction)
+2. []()
+3. DAY 11 REFLECTION: reflection here
 
 
 <a name = "Day16"></a>
