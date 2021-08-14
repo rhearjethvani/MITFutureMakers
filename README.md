@@ -521,6 +521,69 @@ SureStart X MIT RAISE
 
 
 <a name = "Day15"></a>
+## Day 15: Tuesday, July 20, 2021: Activation Functions
+### Objectives:
+1. Introduction to Activation Functions
+
+### Lesson Plan:
+1. Check out the ["How to Choose an Activation Function for Deep Learning" tutorial](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
+2. Learn how to implement ReLU through ["A Gentle Introduction to the Rectified Linear Unit (ReLU)" article](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- Activation Function: nonlinear function applied by a neuron to introduce nonlinear properties in the network that decides whether the certain neuron should be activated or not
+  - Multilayer Perceptron or Convolutional Neural Network: Rectified Linear Activation (ReLU)
+    - Value range: 0 (inclusive) to infinity
+    - Nonlinear --> easily backpropogate the errors and have multiple layers of neurons being activated by the ReLU function
+    - Less computationally expensive than Tanh and Sigmoid because it involves simpler mathematical operations
+    - Only a few neurons are activated at a time because of the characteristic of output 0 for negative values of input
+    - Learns much faster
+  - Recurrent Neural Network: Logistic (Sigmoid) or Hyperbolic Tangent (Tanh)
+    - Logistic (Sigmoid): can be used in hidden layer but mostly used in output layer of a binary classification where result is either 0 or 1
+      - Value range: 0 to 1
+      - Non-linear
+      - Smooth gradient, preventing "jumps" in output values
+    - Hyberbolic Tangent (Tanh): in hidden layers, as an activation function
+      - Value range: -1 to 1
+      - Non-linear
+      - Zero-centered
+- Choice of activation function in the output layer will define the type of predictions the model can make
+  - Regression: one node, linear activation
+  - Classification:
+    - Binary Classification: one node, sigmoid activation
+    - Multiclass Classification
+#### Talk with Daniel Ranallo
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 11 REFLECTION: reflection here
+
+
+<a name = "Day16"></a>
+## Day 16: Friday, July 16, 2021: HERE
+### Objectives:
+1. here
+
+### Lesson Plan:
+1. Learn about CNNs using ["here"](here) notebook
+
+### Workshops & Key Learnings:
+#### Deep Learning Overview with Head Mentors
+- here
+#### Workshop HERE
+- here
+#### Self-Study Applied Deep Learning Curriculum
+- here?
+
+### Action Item(s):
+1. [activity name](activitygithublink)
+2. DAY 11 REFLECTION: reflection here
+
+
+<a name = "Day17"></a>
 ## Day 12: Friday, July 16, 2021: HERE
 ### Objectives:
 1. here
