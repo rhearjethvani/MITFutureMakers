@@ -528,6 +528,7 @@ SureStart X MIT RAISE
 ### Lesson Plan:
 1. Check out the ["How to Choose an Activation Function for Deep Learning" tutorial](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
 2. Learn how to implement ReLU through ["A Gentle Introduction to the Rectified Linear Unit (ReLU)" article](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
+3. Look over [Cheat Sheet on "Activation Functions"](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 
 ### Workshops & Key Learnings:
 #### Deep Learning Overview with Head Mentors
@@ -585,11 +586,12 @@ SureStart X MIT RAISE
 #### Self-Study Applied Deep Learning Curriculum
 - All hidden layers typically use the same activation function
 - The output layer will typically use a different activation function from the hidden layers and is dependent upon the type of prediction required by the model
+- Advantages of ReLU: Computational Simplicity, Representational Sparsity, Linear Behavior, and Train Deep Networks
 
 ### Action Item(s):
 1. [How to Choose an Activation Function for Deep Learning](https://github.com/rhearjethvani/MITFutureMakers/tree/main/choosingAnActivationFunction)
-2. []()
-3. DAY 11 REFLECTION: reflection here
+2. [Introduction to Rectified Linear Unit (ReLU)](https://github.com/rhearjethvani/MITFutureMakers/tree/main/introToReLU)
+3. DAY 15 REFLECTION: reflection here
 
 
 <a name = "Day16"></a>
