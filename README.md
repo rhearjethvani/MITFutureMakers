@@ -1,7 +1,7 @@
 # MITFutureMakers
-SureStart X MIT RAISE
-Total Hours: XXX
-Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
+## SureStart X MIT RAISE
+## Total Hours: XXX
+## Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
 
 
 ## Breakdown
@@ -694,7 +694,22 @@ Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
   - High Precision
   - Accurate Confidence
   - High Speed
-- 
+- EC's Scalable Natural Learning System: designed to continuously read and interact with humans
+  - Language Learning
+    - Learns at the sentence level
+    - Discovers patterns connecting lexico-syntactic information and meaning
+  - Domain Learning
+    - Builds up sentential information into a coherent picture
+    - Learns at the story level
+    - Learns common sense knowledge
+- EC's AI Platform
+  - Designed to power collaborative engagement across a broad range of applications
+  - Learn, interpret, engage, reason
+  - Describe, collaboratively dialog, understand, and inform & resolve
+- Our vision for machine intelligence
+  - Comprehend: machines autonomously read, learn, understand, synthesize, and intelligently dialog with humans
+  - Collaborate: machines interact to provide answers and consumable explantions about what they know and how they know it
+  - Accelerate: machines as true thought partners (deliver interactive, human-level expertise to accelerate our understanding, idea generation, and informed decision making)
 #### Self-Study Applied Deep Learning Curriculum
 - here?
 
@@ -703,7 +718,7 @@ Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
 2. DAY 17 REFLECTION: reflection here
 
 
-<a name = "Day17"></a>
+<a name = "Day18"></a>
 ## Day 12: Friday, July 16, 2021: HERE
 ### Objectives:
 1. here
@@ -724,7 +739,7 @@ Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
 2. DAY 11 REFLECTION: reflection here
 
 
-<a name = "Day17"></a>
+<a name = "Day19"></a>
 ## Day 12: Friday, July 16, 2021: HERE
 ### Objectives:
 1. here
@@ -745,7 +760,7 @@ Final Create-a-thon Project: GITHUBLINKHERE & SLIDESLINKHERE
 2. DAY 11 REFLECTION: reflection here
 
 
-<a name = "Day17"></a>
+<a name = "Day20"></a>
 ## Day 12: Friday, July 16, 2021: HERE
 ### Objectives:
 1. here
